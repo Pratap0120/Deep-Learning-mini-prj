@@ -1,7 +1,3 @@
-Here's how you can integrate your GitHub, LinkedIn, and email into the README for a professional and approachable look:
-
----
-
 # My Deep Learning Journey 🚀
 
 Welcome to my deep learning practice repository! This is where I document my learning journey, experiments, and small projects in deep learning.
